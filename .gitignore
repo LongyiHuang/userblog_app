@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 yarn.lock
+package-lock.json
 
 # production
 /dist
@@ -12,3 +13,6 @@ yarn.lock
 .DS_Store
 npm-debug.log*
 .idea/
+
+
+
